@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center"> <strong>¡Hey 👋! I´m Jason </strong></h3>
+  
+<h4 align="center">Student at Platzi</h4>
+<p align="center" width="300">
 
-<!--
-**jasonccode/jasonccode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <img align="center" width="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTphdVu8VuviRJ27Kk1cuY9UjxUBevPWt8xD35yYGrvt4lfxRwK5ch8EAZv6WQX0o5u_c&usqp=CAU" />
+   
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align="center"> Skills: C# / SQL / JS / HTML / CSS </h5>
+
+
+
+
+
+
+
+
+
+
