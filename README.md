@@ -1,6 +1,6 @@
-<h1>Soy un Desarrollador Full Stack</h1>
+<h1>Desarrollador Full Stack</h1>
 
-<p>Tengo experiencia y conocimientos en C#, .Net, SQL Server, HTML, CSS, Javascript y Angular. Estoy comprometido en mejorar constantemente mis habilidades técnicas y de programación a través del aprendizaje continuo.</p>
+<p>¡Hola! Soy un desarrollador de software con experiencia en tecnologías .NET y con dominio del lenguaje de programación C#. Me apasiona el desarrollo de software. Me especializo en la creación de aplicaciones y soluciones escalables utilizando .NET Framework y .NET Core, con un enfoque en el backend. Además, tengo conocimientos en SQL Server para el manejo de bases de datos relacionales y en habilidades en programación web y Full Stack con HTML, CSS, Javascript y Angular.</p>
 
 <h2>Experiencia</h2>
 
