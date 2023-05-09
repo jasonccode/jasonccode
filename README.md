@@ -22,7 +22,7 @@
 
 <h2>Educación </h2>
 
-<p>Actualmente estoy estudiando y aprendiendo continuamente sobre nuevas tecnologías y herramientas para seguir mejorando como desarrollador Full Stack.</p>
+<p>Actualmente estoy estudiando y aprendiendo continuamente sobre nuevas tecnologías y herramientas para seguir mejorando como desarrollador Full Stack. </p>
 
 
 
