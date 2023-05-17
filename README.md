@@ -2,7 +2,7 @@
 
 <p>¡Hola! Soy un desarrollador de software con experiencia en tecnologías .NET y con dominio del lenguaje de programación C#. Me apasiona el desarrollo de software. Me especializo en la creación de aplicaciones y soluciones escalables utilizando .NET Framework y .NET Core, con un enfoque en el backend. Además, tengo conocimientos en SQL Server para el manejo de bases de datos relacionales y en habilidades en programación web y Full Stack con HTML, CSS, Javascript y Angular.</p>
 
-<h2>Experiencia </h2>
+<h2>Experiencia</h2>
 
 <h3>Desarrollador de Software</h3>
 
