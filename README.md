@@ -6,7 +6,7 @@
 
 <h3>Desarrollador de Software</h3>
 
-<p>He trabajado en el desarrollo de aplicaciones utilizando C#, .Net, SQL Server y programación web Full Stack con HTML, CSS y Javascript. Durante el último año, he adquirido habilidades avanzadas en el conocimiento y aplicación de software, mejorando constantemente mis habilidades técnicas.</p>
+<p>He trabajado en el desarrollo de aplicaciones utilizando C#, .Net, SQL Server y programación web Full Stack con HTML, CSS y Javascript. Durante el último año, he adquirido habilidades avanzadas en el conocimiento y aplicación de software, mejorando constantemente mis habilidades técnicas. </p>
 
 <h2>Habilidades</h2>
 
