@@ -13,7 +13,7 @@
 <ul>
   <li>C#</li>
   <li>.Net</li>
-  <li>SQL Server</li>
+  <li>SQL Server </li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
