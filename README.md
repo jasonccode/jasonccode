@@ -17,7 +17,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Angular</li>
+  <li>Angular </li>
 </ul>
 
 <h2>Educación </h2>
