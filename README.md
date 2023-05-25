@@ -8,7 +8,7 @@
 
 <p>He trabajado en el desarrollo de aplicaciones utilizando C#, .Net, SQL Server y programación web Full Stack con HTML, CSS y Javascript. Durante el último año, he adquirido habilidades avanzadas en el conocimiento y aplicación de software, mejorando constantemente mis habilidades técnicas. </p>
 
-<h2>Habilidades</h2>
+<h2>Habilidades </h2>
 
 <ul>
   <li>C#</li>
