@@ -1,12 +1,15 @@
 <h1>Desarrollador Full Stack</h1>
 
-<p>¡Hola! Soy un desarrollador de software con experiencia en tecnologías .NET y con dominio del lenguaje de programación C#. Me apasiona el desarrollo de software. Me especializo en la creación de aplicaciones y soluciones escalables utilizando .NET Framework y .NET Core,con un enfoque en el backend. Además, tengo conocimientos en SQL Server para el manejo de bases de datos relacionales y en habilidades en programación web y Full Stack con HTML, CSS, Javascript y Angular.</p>
+<p>¡Hola! Soy Desarrollador Full Stack con experiencia en tecnologías .NET y dominio del lenguaje de programación C#. He participado en crear aplicaciones y soluciones escalables utilizando .NET Framework y .NET Core, con un enfoque en el backend. También tengo conocimientos en SQL Server y Postgres para el manejo de bases de datos relacionales, así como habilidades en programación web y Full Stack utilizando HTML, CSS, Javascript y Angular..</p>
 
 <h2>Experiencia</h2>
 
 <h3>Desarrollador de Software</h3>
 
-<p>He trabajado en el desarrollo de aplicaciones utilizando C#, .Net, SQL Server y programación web Full Stack con HTML, CSS y Javascript. Durante el último año, he adquirido habilidades avanzadas en el conocimiento y aplicación de software, mejorando constantemente mis habilidades técnicas. </p>
+<p>Como Desarrollador de Software, he trabajado en proyectos utilizando C#, .NET, SQL Server, Postgres y programación web Full Stack con HTML, CSS y Javascript. He acumulado experiencia en el desarrollo de aplicaciones y he mejorado constantemente mis habilidades técnicas.
+
+Con mi sólido conocimiento y práctica en estas tecnologías, estoy preparado para aportar valor a su empresa mediante la creación de soluciones innovadoras y de calidad. Estoy motivado por el aprendizaje continuo, la resolución de problemas y la colaboración en equipo.
+</p>
 
 <h2>Habilidades </h2>
 
