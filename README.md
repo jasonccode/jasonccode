@@ -4,7 +4,7 @@
 
 <h2>Experiencia</h2>
 
-<h3>Desarrollador de Software</h3>
+<h3>Desarrollador de Software </h3>
 
 <p>Como Desarrollador de Software, he trabajado en proyectos utilizando C#, .NET, SQL Server, Postgres y programación web Full Stack con HTML, CSS y Javascript. He acumulado experiencia en el desarrollo de aplicaciones y he mejorado constantemente mis habilidades técnicas.
 
