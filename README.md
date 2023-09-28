@@ -17,6 +17,7 @@ Con mi sólido conocimiento y práctica en estas tecnologías, estoy preparado p
   <li>C#</li>
   <li>.Net</li>
   <li>SQL Server </li>
+  <li>Java</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
